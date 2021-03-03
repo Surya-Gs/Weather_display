@@ -1,4 +1,4 @@
-# Weather Progressive Web Application
+# Weather display Web Application
 
 ### [Live Site](https://affectionate-wescoff-a9ccfe.netlify.app/)
 
